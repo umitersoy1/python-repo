@@ -1,2 +1,2 @@
 # python-repo
-#This is a repo for my python prcatices!
+#This is a repo for my python practices!
